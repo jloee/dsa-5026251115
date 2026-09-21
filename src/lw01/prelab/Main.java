@@ -1,5 +1,10 @@
 package lw01.prelab;
 
+<<<<<<< HEAD
+=======
+
+// prelab labwork 01 
+>>>>>>> f3301a6b5ce84d01db8937e41327a0a0d0dc96e1
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
@@ -32,4 +37,9 @@ public class Main {
             System.out.println(job.summary());
         }
     }
+<<<<<<< HEAD
 }
+=======
+}
+
+>>>>>>> f3301a6b5ce84d01db8937e41327a0a0d0dc96e1
